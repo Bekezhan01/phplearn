@@ -12,8 +12,6 @@
 //}
 //$nums = [1,2,3,4];
 //echo containsDuplicate($nums);
-zettor-hykrip-3qiNho
-ssh-keygen -t ed25519 -C "dedsec011@gmail.com"
 
 function containsDuplicate($nums)
 {
