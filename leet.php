@@ -13,6 +13,8 @@
 //$nums = [1,2,3,4];
 //echo containsDuplicate($nums);
 
+echo "testPhp";
+
 function containsDuplicate($nums)
 {
     $unique = array_unique($nums);
