@@ -12,6 +12,8 @@
 //}
 //$nums = [1,2,3,4];
 //echo containsDuplicate($nums);
+
+echo "testPhp";
 echo "name";
 function containsDuplicate($nums)
 {
